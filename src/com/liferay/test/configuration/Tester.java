@@ -16,5 +16,13 @@ public class Tester {
 		System.out.println("Tester name: " + name);
 		System.out.println("Omar Ezzine");
 	}
-
+	
+	public int change (int a, int b){
+		a=10;
+		int c;
+		c=a;
+		b=c;
+		return b;
+	}
+	
 }

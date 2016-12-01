@@ -23,6 +23,9 @@ public class Tester {
 		c=a;
 		b=c;
 		return b;
+		System.out.println("me");
+		
+	
 	}
 	
 }

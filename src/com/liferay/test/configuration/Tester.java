@@ -14,6 +14,7 @@ public class Tester {
 		String name = props.getString("tester.name");
 
 		System.out.println("Tester name: " + name);
+		System.out.println("Omar Ezzine");
 	}
 
 }
